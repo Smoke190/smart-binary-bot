@@ -6,3 +6,4 @@ numpy
 mplfinance
 matplotlib
 python-dotenv
+six
