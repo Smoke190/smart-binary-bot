@@ -1,0 +1,8 @@
+python-telegram-bot==21.6
+ccxt
+pandas
+pandas-ta
+numpy
+mplfinance
+matplotlib
+python-dotenv
